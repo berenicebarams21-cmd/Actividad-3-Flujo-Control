@@ -25,4 +25,5 @@ Funciones del programa.
 ![image alt](https://github.com/berenicebarams21-cmd/Actividad-3-Flujo-Control/blob/bdd55305cd66a88bb68496f4e4ce2bcf7ec96bf4/Screenshot_20260728-134415.jpg)
 
 Autor:
+
 Benito Bastardo R. 
