@@ -13,3 +13,8 @@ Funciones del programa.
 - Calcula el promedio.
 - Determina si el estudiante aprobó o reprobó.
 - Muestra la información organizada en una tabla.
+  
+  Tecnologías utilizadas.
+  
+- Lenguaje: C++
+- Compilador: Online C++ Compiler
