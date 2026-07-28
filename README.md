@@ -18,3 +18,6 @@ Funciones del programa.
   
 - Lenguaje: C++
 - Compilador: Online C++ Compiler
+
+
+    ![image alt](https://github.com/berenicebarams21-cmd/Actividad-3-Flujo-Control/blob/a7d0737357c8966c3c195e117c8cdc9632072566/Screenshot_20260728-134402.jpg)
